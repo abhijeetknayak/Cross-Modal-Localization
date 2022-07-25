@@ -5,6 +5,8 @@ old_TODOs/
 robotcar-dataset-sdk/
 data/
 .idea/
+pytorch-CycleGAN-and-pix2pix/
+pytorch-CycleGAN-and-pix2pix-old/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
